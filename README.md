@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Be sure to install node.js and yarn
-installing npm cant hurt as well but it isnt required
+## Be sure to install node.js and yarn for this
+
 
 ## Available Scripts
 
