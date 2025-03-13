@@ -1,6 +1,6 @@
 import React from 'react';
-// import './App.css';
-// import './Home.tsx'
+import './App.css';
+import './Home.tsx'
 
 export const Example = () => {
   const thingamajig = (num: number)=> {
