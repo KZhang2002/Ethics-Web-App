@@ -3,6 +3,7 @@ import './App.css';
 import {Home} from './Home';
 import {Example} from './ExampleFile';
 import {AboutMe}from './AboutMe';
+import HomePage from './HomePage';
 
 // I'll implement a system for navigating between pages later, just put any links as blank using "#" for now.
 // Figma has a plugin called FigmaToCode that allows you to select elements and get code for it
@@ -22,8 +23,9 @@ function App() {
     <div>
       {/* when testing, just put your component here and comment out the other components*/}
       {/* <Example/> */}
-      <AboutMe/>
+      {/* <AboutMe/> */}
       {/*<Home/>*/}
+      <HomePage/>
     </div>
   );
 }
