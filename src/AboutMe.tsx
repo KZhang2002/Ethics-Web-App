@@ -11,7 +11,7 @@ export const AboutMe = () => {
   </div>
   <div className="w-24 h-24 left-[-7px] top-[-49px] absolute" />
   <div data-platform="Mobile" className="w-80 h-[647px] p-6 left-[21px] top-[167px] absolute bg-Background-Default-Default rounded-lg inline-flex flex-col justify-start items-start gap-6">
-    <img className="self-stretch h-60" src="https://placehold.co/285x240" />
+    <img className="self-stretch h-60" src="public/SMUTechOverlay.png" />
     <div className="self-stretch min-w-72 flex flex-col justify-start items-start gap-6">
       <div className="self-stretch inline-flex flex-col justify-start items-start gap-2">
         <div></div>
@@ -21,7 +21,7 @@ export const AboutMe = () => {
       </div>
     </div>
   </div>
-  <img className="w-72 h-60 left-[43px] top-[189px] absolute" src="https://placehold.co/287x244" />
+  <img className="w-72 h-60 left-[43px] top-[189px] absolute" src="/SMUTechOverlay.png" />
   <div data-configuration="Icon & label" data-segments="5" className="w-96 px-2 left-0 top-[861px] absolute bg-white inline-flex justify-start items-start gap-2">
     <div data-badge="None" data-label="True" data-selected="True" data-state="Enabled" className="flex-1 pt-3 pb-4 inline-flex flex-col justify-center items-center gap-1">
       <div className="bg-white rounded-2xl flex flex-col justify-center items-center overflow-hidden">
