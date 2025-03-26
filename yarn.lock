@@ -1087,6 +1087,11 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.24.2.tgz#34aa0b52d0fbb1a654b596acfa595f0c7b77a77b"
   integrity sha512-7VTgWzgMGvup6aSqDPLiW5zHaxYJGTO4OokMjIlrCtf+VpEL+cXKtCvg723iguPYI5oaUNdS+/V7OU2gvXVWEg==
 
+"@heroicons/react@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-2.2.0.tgz#0c05124af50434a800773abec8d3af6a297d904b"
+  integrity sha512-LMcepvRaS9LYHJGsF0zzmgKCUim/X3N/DQKc4jepAXJ7l8QxJ1PmxJzqplF2Z3FE4PqBAIGyJAQ/w4B5dsqbtQ==
+
 "@jest/expect-utils@^29.7.0":
   version "29.7.0"
   resolved "https://registry.yarnpkg.com/@jest/expect-utils/-/expect-utils-29.7.0.tgz#023efe5d26a8a70f21677d0a1afc0f0a44e3a1c6"

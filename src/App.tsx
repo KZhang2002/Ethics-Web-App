@@ -23,9 +23,9 @@ function App() {
     <div>
       {/* when testing, just put your component here and comment out the other components*/}
       {/* <Example/> */}
-      {/* <AboutMe/> */}
-      {/*<Home/>*/}
-      <HomePage/>
+      <AboutMe/>
+      {/* <Home/> */}
+      {/* <HomePage/> */}
     </div>
   );
 }
